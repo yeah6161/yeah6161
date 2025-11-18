@@ -1,1 +1,1 @@
-Hevox — currently learning C, diving into low-level programming.
+currently learning C, diving into low-level programming.
